@@ -6,22 +6,23 @@ tags:
   - PubChem
   - unknown chemical substances
 authors:
-  - name: First Author
+  - name: Thomas Liener
+  - orcid: 0000-0000-0000-0000
     affiliation: 1
-  - name: Last Author
-    orcid: 0000-0000-0000-0000
+  - name: Núria Queralt-Rosianch
+    orcid: 0000-0003-0169-8159
     affiliation: 2
 affiliations:
   - name: First Affiliation
     index: 1
-  - name: Second Affiliation
+  - name: Leiden University Medical Center, Leiden, The Netherlands.
     index: 2
-date: 8 November 2023
+date: 30 August 2024
 cito-bibliography: paper.bib
-event: BH23EU
-biohackathon_name: "BioHackathon Europe 2023"
-biohackathon_url:   "https://biohackathon-europe.org/"
-biohackathon_location: "Barcelona, Spain, 2023"
+event: DBCLS BH24
+biohackathon_name: "DBCLS BioHackathon 2024"
+biohackathon_url:   "https://2024.biohackathon.org/"
+biohackathon_location: "Fukushima, Japan, 2024"
 group: Project 26
 # URL to project git repo --- should contain the actual paper.md:
 git_url: https://github.com/biohackrxiv/publication-template
